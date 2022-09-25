@@ -41,6 +41,6 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Creatures
+  - name: Level
     uniqueID: 2911345479
     locked: 0
